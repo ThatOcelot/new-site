@@ -17,12 +17,25 @@ I am Anthony, also known as ThatOcelot. I am an 18 year old cybersecurity studen
 
 ## Where I study
 ### Mesa Community College
+- Mesa, Arizona, United States
 - Program: Cybersecurity
 - Start: Fall 2023
 - Expected end: Fall 2025
 
 ### Paragon Science Academy
+- Chandler, Arizona, United States
+- Enrollment: Fall 2018
 - Graduation: Spring 2023
+
+### Center for Educational Excellence
+- Tempe, Arizona, United States
+- Enrollment: Fall 2016
+- Transfer: Spring 2018
+
+### Kyrene del Norte
+- Tempe, Arizona, United States
+- Enrollment: Fall 2012
+- Transfer: Spring 2016
 
 ## What I speak
 ### Fluent
