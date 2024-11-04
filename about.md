@@ -42,16 +42,16 @@ I am Anthony, also known as ThatOcelot. I am an 18 year old cybersecurity studen
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/2560px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" alt="English" width="200"/>](https://en.wikipedia.org/wiki/English_language)
 
 ### Learning
-- [Hebrew (עברית)](https://en.wikipedia.org/wiki/Hebrew_language)
-- [Portuguese (Português)](https://en.wikipedia.org/wiki/Portuguese_language)
-- [Spanish (Español)](https://en.wikipedia.org/wiki/Spanish_language)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/2560px-Flag_of_Israel.svg.png" alt="Hebrew (עברית)" width="200"/>](https://en.wikipedia.org/wiki/Hebrew_language)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/2560px-Flag_of_Portugal.svg.png" alt="Portuguese (Português)" width="200"/>](https://en.wikipedia.org/wiki/Portuguese_language)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/2560px-Bandera_de_Espa%C3%B1a.svg.png" alt="Spanish (Español)" width="200"/>](https://en.wikipedia.org/wiki/Spanish_language)
 
 ### Not conversational
-- [Danish (Dansk)](https://en.wikipedia.org/wiki/Danish_language)
-- [French (Français)](https://en.wikipedia.org/wiki/French_language)
-- [German (Deutsch)](https://en.wikipedia.org/wiki/German_language)
-- [Japanese (日本語)](https://en.wikipedia.org/wiki/Japanese_language)
-- [Navajo (Diné)](https://en.wikipedia.org/wiki/Navajo_language)
-- [Russian (Русский)](https://en.wikipedia.org/wiki/Russian_language)
-- [Swedish (Svensk)](https://en.wikipedia.org/wiki/Swedish_language)
-- [Turkish (Türkçe)](https://en.wikipedia.org/wiki/Turkish_language)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/2560px-Flag_of_Denmark.svg.png" alt="Danish (Dansk)" width="200"/>](https://en.wikipedia.org/wiki/Danish_language)
+[<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png" alt="French (Français)" width="200"/>](https://en.wikipedia.org/wiki/French_language)
+[<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png" alt="German (Deutsch)" width="200"/>](https://en.wikipedia.org/wiki/German_language)
+[<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/2560px-Flag_of_Japan.svg.png" alt="Japanese (日本語)" width="200"/>](https://en.wikipedia.org/wiki/Japanese_language)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Navajo_flag.svg/2560px-Navajo_flag.svg.png" alt="Navajo (Diné)" width="200"/>](https://en.wikipedia.org/wiki/Navajo_language)
+[<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/2560px-Flag_of_Russia.svg.png" alt="Russian (Русский" width="200"/>)](https://en.wikipedia.org/wiki/Russian_language)
+[<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/2560px-Flag_of_Sweden.svg.png" alt="Swedish (Svensk)" width="200"/>](https://en.wikipedia.org/wiki/Swedish_language)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/2560px-Flag_of_Turkey.svg.png" alt="Turkish (Türkçe)" width="200"/>](https://en.wikipedia.org/wiki/Turkish_language)
