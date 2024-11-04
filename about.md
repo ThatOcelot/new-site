@@ -39,7 +39,7 @@ I am Anthony, also known as ThatOcelot. I am an 18 year old cybersecurity studen
 
 ## What I speak
 ### Fluent
-- [![English](/assets/flag/gb.png)](https://en.wikipedia.org/wiki/English_language)
+[![English](/assets/flag/gb.png)](https://en.wikipedia.org/wiki/English_language)
 
 ### Learning
 - [Hebrew (עברית)](https://en.wikipedia.org/wiki/Hebrew_language)
