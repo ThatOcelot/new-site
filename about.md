@@ -20,7 +20,7 @@ I am Anthony, also known as ThatOcelot. I am an 18 year old cybersecurity studen
 - Mesa, Arizona, United States
 - Program: Cybersecurity
 - Start: Fall 2023
-- Expected end: Fall 2025
+- Expected graduation: Fall 2025
 
 ### Paragon Science Academy
 - Chandler, Arizona, United States
