@@ -52,6 +52,6 @@ I am Anthony, also known as ThatOcelot. I am an 18 year old cybersecurity studen
 [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png" alt="German (Deutsch)" height="120"/>](https://en.wikipedia.org/wiki/German_language)
 [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/2560px-Flag_of_Japan.svg.png" alt="Japanese (日本語)" height="120"/>](https://en.wikipedia.org/wiki/Japanese_language)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Navajo_flag.svg/2560px-Navajo_flag.svg.png" alt="Navajo (Diné)" height="120"/>](https://en.wikipedia.org/wiki/Navajo_language)
-[<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/2560px-Flag_of_Russia.svg.png" alt="Russian (Русский" height="120"/>)](https://en.wikipedia.org/wiki/Russian_language)
+[<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/2560px-Flag_of_Russia.svg.png" alt="Russian (Русский)" height="120"/>)](https://en.wikipedia.org/wiki/Russian_language)
 [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/2560px-Flag_of_Sweden.svg.png" alt="Swedish (Svensk)" height="120"/>](https://en.wikipedia.org/wiki/Swedish_language)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/2560px-Flag_of_Turkey.svg.png" alt="Turkish (Türkçe)" height="120"/>](https://en.wikipedia.org/wiki/Turkish_language)
