@@ -26,19 +26,19 @@ I am Anthony, also known as ThatOcelot. I am an 18 year old cybersecurity studen
 
 ## What I speak
 ### Fluent
-- English
+- [English](https://en.wikipedia.org/wiki/English_language)
 
 ### Learning
-- Hebrew (עברית)
-- Portuguese (Português)
-- Spanish (Español)
+- [Hebrew (עברית)](https://en.wikipedia.org/wiki/Hebrew_language)
+- [Portuguese (Português)](https://en.wikipedia.org/wiki/Portuguese_language)
+- [Spanish (Español)](https://en.wikipedia.org/wiki/Spanish_language)
 
 ### Not conversational
-- Danish (Dansk)
-- French (Français)
-- German (Deutsch)
-- Japanese (日本語)
-- Navajo (Diné)
-- Russian (Русский)
-- Swedish (Svensk)
-- Turkish (Türkçe)
+- [Danish (Dansk)](https://en.wikipedia.org/wiki/Danish_language)
+- [French (Français)](https://en.wikipedia.org/wiki/French_language)
+- [German (Deutsch)](https://en.wikipedia.org/wiki/German_language)
+- [Japanese (日本語)](https://en.wikipedia.org/wiki/Japanese_language)
+- [Navajo (Diné)](https://en.wikipedia.org/wiki/Navajo_language)
+- [Russian (Русский)](https://en.wikipedia.org/wiki/Russian_language)
+- [Swedish (Svensk)](https://en.wikipedia.org/wiki/Swedish_language)
+- [Turkish (Türkçe)](https://en.wikipedia.org/wiki/Turkish_language)
