@@ -14,3 +14,31 @@ I am Anthony, also known as ThatOcelot. I am an 18 year old cybersecurity studen
 ### Team Member, Domino's Pizza
 - Tempe, Arizona, United States
 - Customer Service Representative: May 2022 - July 2022
+
+## Where I study
+### Mesa Community College
+- Program: Cybersecurity
+- Start: Fall 2023
+- Expected end: Fall 2025
+
+### Paragon Science Academy
+- Graduation: Spring 2023
+
+## What I speak
+### Fluent
+- English
+
+### Learning
+- Hebrew (עברית)
+- Portuguese (Português)
+- Spanish (Español)
+
+### Not conversational
+- Danish (Dansk)
+- French (Français)
+- German (Deutsch)
+- Japanese (日本語)
+- Navajo (Diné)
+- Russian (Русский)
+- Swedish (Svensk)
+- Turkish (Türkçe)
